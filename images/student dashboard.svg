@@ -1,0 +1,430 @@
+<svg id="student_dashboard" data-name="student dashboard" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-2974 4345 334.551 667">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7dc4f6;
+        stroke: rgba(149,152,154,0.3);
+      }
+
+      .cls-2, .cls-32, .cls-6, .cls-8 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #818284;
+      }
+
+      .cls-10, .cls-14, .cls-17, .cls-19, .cls-22, .cls-23, .cls-24, .cls-25, .cls-28, .cls-4, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-6 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        fill: #535353;
+      }
+
+      .cls-6 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 0.75px;
+      }
+
+      .cls-7 {
+        fill: #f5fdff;
+        opacity: 0.1;
+      }
+
+      .cls-12, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-10, .cls-30 {
+        font-size: 16px;
+      }
+
+      .cls-10, .cls-14, .cls-22, .cls-24, .cls-25 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-11 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-12, .cls-29, .cls-30, .cls-31 {
+        fill: #008ced;
+      }
+
+      .cls-13 {
+        fill: #2f3e9e;
+      }
+
+      .cls-14 {
+        font-size: 10px;
+      }
+
+      .cls-15 {
+        fill: rgba(255,255,255,0.9);
+      }
+
+      .cls-16 {
+        fill: rgba(255,255,255,0.3);
+      }
+
+      .cls-17 {
+        opacity: 0.9;
+      }
+
+      .cls-18 {
+        fill: #00679e;
+      }
+
+      .cls-20 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-21 {
+        fill: #29b6f6;
+        stroke: #29b6f6;
+        stroke-width: 2px;
+      }
+
+      .cls-22 {
+        font-size: 8px;
+      }
+
+      .cls-23, .cls-29 {
+        font-size: 18px;
+      }
+
+      .cls-23, .cls-29, .cls-30 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-24 {
+        font-size: 9px;
+      }
+
+      .cls-25 {
+        font-size: 12px;
+      }
+
+      .cls-26 {
+        fill: rgba(255,255,255,0.89);
+      }
+
+      .cls-27 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-28, .cls-32 {
+        stroke: #008ced;
+      }
+
+      .cls-28 {
+        stroke-width: 4px;
+      }
+
+      .cls-31 {
+        font-size: 11px;
+        font-family: SegoeUI-Italic, Segoe UI;
+        font-style: italic;
+      }
+
+      .cls-33 {
+        stroke: none;
+      }
+
+      .cls-34 {
+        filter: url(#Rectangle_246-5);
+      }
+
+      .cls-35 {
+        filter: url(#Rectangle_246-4);
+      }
+
+      .cls-36 {
+        filter: url(#Rectangle_246-3);
+      }
+
+      .cls-37 {
+        filter: url(#Rectangle_246-2);
+      }
+
+      .cls-38 {
+        filter: url(#Rectangle_246);
+      }
+
+      .cls-39 {
+        filter: url(#Rectangle_245);
+      }
+
+      .cls-40 {
+        filter: url(#path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_147" data-name="Rectangle 147" class="cls-1" width="311.75" height="73.157"/>
+    </clipPath>
+    <filter id="path" x="-2965.75" y="4397" width="317.75" height="72.507" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#008ced"/>
+      <stop offset="1" stop-color="#4bd9fe"/>
+    </linearGradient>
+    <filter id="Rectangle_245" x="-2952.63" y="4583.375" width="293.172" height="382.125" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect class="cls-2" width="245.244" height="333.51"/>
+    </clipPath>
+    <filter id="Rectangle_246" x="-2937.666" y="4602.496" width="260.954" height="88.004" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_246-2" x="-2937.666" y="4684.496" width="260.954" height="88.004" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_246-3" x="-2937.666" y="4766.496" width="260.954" height="88.004" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_246-4" x="-2937.666" y="4848.496" width="260.954" height="88.004" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_246-5" x="-2937.666" y="4930.496" width="260.954" height="88.004" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_443" data-name="Group 443" transform="translate(-2974 4345)">
+    <g id="Group_428" data-name="Group 428">
+      <path id="Path_654" data-name="Path 654" class="cls-3" d="M285.157,667H49.394A49.337,49.337,0,0,1,0,617.606V49.394A49.337,49.337,0,0,1,49.394,0H285.157a49.337,49.337,0,0,1,49.394,49.394V617.781A49.526,49.526,0,0,1,285.157,667Z"/>
+      <path id="Path_655" data-name="Path 655" class="cls-4" d="M282.178,660.342H50.794A49.337,49.337,0,0,1,1.4,610.948V51.494A49.337,49.337,0,0,1,50.794,2.1H282.178a49.337,49.337,0,0,1,49.394,49.394V611.123A49.3,49.3,0,0,1,282.178,660.342Z" transform="translate(1.052 1.578)"/>
+      <rect id="Rectangle_303" data-name="Rectangle 303" class="cls-4" width="311.956" height="553.323" transform="translate(11.911 55.175)"/>
+      <path id="Path_656" data-name="Path 656" class="cls-5" d="M142.936,22.254H77.077A2.319,2.319,0,0,1,74.8,19.977h0A2.319,2.319,0,0,1,77.077,17.7h65.859a2.319,2.319,0,0,1,2.277,2.277h0A2.319,2.319,0,0,1,142.936,22.254Z" transform="translate(56.218 13.303)"/>
+    </g>
+    <rect id="Rectangle_304" data-name="Rectangle 304" width="12.436" height="1.752" transform="translate(62.006 627.414)"/>
+    <rect id="Rectangle_305" data-name="Rectangle 305" class="cls-6" width="9.809" height="9.634" transform="translate(163.422 628.465)"/>
+    <path id="Path_657" data-name="Path 657" class="cls-6" d="M151.08,358.4l-4.554,4.554a1.693,1.693,0,0,0,0,2.452l4.554,4.554" transform="translate(109.73 269.365)"/>
+    <path id="Path_658" data-name="Path 658" class="cls-7" d="M200.5,1.289,5.2,613.815,1,48.756A46.239,46.239,0,0,1,46.541,2.165C105.57,1.289,200.68.238,200.5,1.289Z" transform="translate(0.751 0.638)"/>
+  </g>
+  <g id="Group_444" data-name="Group 444" transform="translate(-2962.75 4399)">
+    <g id="app_bar" data-name="app bar">
+      <g id="app_bar-2" data-name="app bar">
+        <g id="app_bar-3" data-name="app bar">
+          <g id="app_bar-4" data-name="app bar">
+            <g id="ic_more_vert_white" transform="translate(287.503 33.253)">
+              <path id="path-2" data-name="path" class="cls-8" d="M10.392-4.048H0V-24H10.392Z" transform="translate(0 24)"/>
+              <path id="ic_more_vert_white-2" data-name="ic_more_vert_white" class="cls-9" d="M5.732-16.675a1.7,1.7,0,0,0,1.732-1.663A1.7,1.7,0,0,0,5.732-20,1.7,1.7,0,0,0,4-18.337a1.7,1.7,0,0,0,1.732,1.663Zm0,1.663A1.7,1.7,0,0,0,4-13.349a1.7,1.7,0,0,0,1.732,1.663,1.7,1.7,0,0,0,1.732-1.663,1.7,1.7,0,0,0-1.732-1.663Zm0,4.988A1.7,1.7,0,0,0,4-8.361,1.7,1.7,0,0,0,5.732-6.7,1.7,1.7,0,0,0,7.464-8.361a1.7,1.7,0,0,0-1.732-1.663Z" transform="translate(-0.536 23.325)"/>
+            </g>
+            <g id="ic_search_white" transform="translate(245.936 33.253)">
+              <path id="path-3" data-name="path" class="cls-8" d="M20.783-4.048H0V-24H20.783Z" transform="translate(0 24)"/>
+              <path id="ic_search_white-2" data-name="ic_search_white" class="cls-9" d="M13.833-11.342h-.688l-.239-.228a5.257,5.257,0,0,0,1.359-3.515,5.523,5.523,0,0,0-5.632-5.406A5.523,5.523,0,0,0,3-15.085,5.523,5.523,0,0,0,8.632-9.678a5.745,5.745,0,0,0,3.661-1.3l.239.228v.659l4.331,4.151,1.292-1.24-4.322-4.159Zm-5.2,0a3.823,3.823,0,0,1-3.9-3.743,3.823,3.823,0,0,1,3.9-3.743,3.824,3.824,0,0,1,3.9,3.743,3.823,3.823,0,0,1-3.9,3.743Z" transform="translate(-0.402 22.985)"/>
+            </g>
+            <g id="app_bar_more" transform="translate(83.999 33.253)">
+              <path id="app_bar_more-2" data-name="app_bar_more" class="cls-9" d="M7,10l4.33,4.157L15.66,10Z" transform="translate(-0.938 -1.687)"/>
+              <rect id="rectangle" class="cls-2" width="20.783" height="19.952"/>
+            </g>
+            <text id="All" class="cls-10" transform="translate(62.35 47.759)"><tspan x="0" y="0">All</tspan></text>
+            <g id="ic_menu_white" transform="translate(13.856 33.253)">
+              <rect id="rectangle-2" data-name="rectangle" class="cls-2" width="20.783" height="19.952"/>
+              <path id="ic_menu_white-2" data-name="ic_menu_white" class="cls-9" d="M3,15.976H18.588V14.313H3v1.663Zm0-4.157H18.588V10.157H3v1.663ZM3,6V7.663H18.588V6Z" transform="translate(-0.402 -1.012)"/>
+            </g>
+            <g id="Mask_Group_1" data-name="Mask Group 1" class="cls-11">
+              <g class="cls-40" transform="matrix(1, 0, 0, 1, 2962.75, -4399)">
+                <path id="path-4" data-name="path" class="cls-12" d="M311.75,0H0V66.507H311.75Z" transform="translate(-2962.75 4399)"/>
+              </g>
+            </g>
+          </g>
+          <g id="status_bar" data-name="status bar">
+            <rect id="rectangle-3" data-name="rectangle" class="cls-13" width="311.75" height="19.952"/>
+            <rect id="status_bar-2" data-name="status bar" class="cls-2" width="102.185" height="19.952" transform="translate(209.566)"/>
+            <text id="time" class="cls-14" transform="translate(276.245 13.494)"><tspan x="0" y="0">12:30</tspan></text>
+            <g id="battery" transform="translate(261.524 4.988)">
+              <rect id="battery_level_1" data-name="battery level 1" class="cls-15" width="6.928" height="2.494" transform="translate(0 8.313)"/>
+              <rect id="battery_level_2_" data-name="battery level 2 " class="cls-15" width="6.928" height="2.494" transform="translate(0 5.819)"/>
+              <rect id="battery_level_3" data-name="battery level 3" class="cls-16" width="6.928" height="2.494" transform="translate(0 3.325)"/>
+              <rect id="battery_level_4" data-name="battery level 4" class="cls-16" width="6.928" height="2.494" transform="translate(0 0.831)"/>
+              <rect id="battery_full" data-name="battery full" class="cls-16" width="3.464" height="0.831" transform="translate(1.732)"/>
+            </g>
+            <path id="network_connection" data-name="network connection" class="cls-17" d="M19.8,11.639H31.924V0Z" transform="translate(222.153 4.157)"/>
+            <path id="wifi" class="cls-17" d="M7.621,11.639l7.621-9.062A12.358,12.358,0,0,0,7.621,0,12.358,12.358,0,0,0,0,2.577l7.621,9.062Z" transform="translate(224.807 4.157)"/>
+          </g>
+        </g>
+        <g id="ic_more_vert_white-3" data-name="ic_more_vert_white" transform="translate(287.503 33.253)">
+          <path id="path-5" data-name="path" class="cls-8" d="M10.392-4.048H0V-24H10.392Z" transform="translate(0 24)"/>
+          <path id="ic_more_vert_white-4" data-name="ic_more_vert_white" class="cls-9" d="M5.732-16.675a1.7,1.7,0,0,0,1.732-1.663A1.7,1.7,0,0,0,5.732-20,1.7,1.7,0,0,0,4-18.337a1.7,1.7,0,0,0,1.732,1.663Zm0,1.663A1.7,1.7,0,0,0,4-13.349a1.7,1.7,0,0,0,1.732,1.663,1.7,1.7,0,0,0,1.732-1.663,1.7,1.7,0,0,0-1.732-1.663Zm0,4.988A1.7,1.7,0,0,0,4-8.361,1.7,1.7,0,0,0,5.732-6.7,1.7,1.7,0,0,0,7.464-8.361a1.7,1.7,0,0,0-1.732-1.663Z" transform="translate(-0.536 23.325)"/>
+        </g>
+        <text id="All-2" data-name="All" class="cls-10" transform="translate(51.543 47.759)"><tspan x="0" y="0">Dashboard</tspan></text>
+        <g id="ic_menu_white-3" data-name="ic_menu_white" transform="translate(13.856 33.253)">
+          <rect id="rectangle-4" data-name="rectangle" class="cls-2" width="20.783" height="19.952"/>
+          <path id="ic_menu_white-4" data-name="ic_menu_white" class="cls-9" d="M3,15.976H18.588V14.313H3v1.663Zm0-4.157H18.588V10.157H3v1.663ZM3,6V7.663H18.588V6Z" transform="translate(-0.402 -1.012)"/>
+        </g>
+      </g>
+      <g id="status_bar-3" data-name="status bar">
+        <path id="rectangle-5" data-name="rectangle" class="cls-18" d="M0,0H311.75V19.952H0Z"/>
+        <rect id="status_bar-4" data-name="status bar" class="cls-2" width="102.185" height="19.952" transform="translate(209.566)"/>
+        <text id="time-2" data-name="time" class="cls-14" transform="translate(276.245 13.494)"><tspan x="0" y="0">12:30</tspan></text>
+        <g id="battery-2" data-name="battery" transform="translate(261.524 4.988)">
+          <rect id="battery_level_1-2" data-name="battery level 1" class="cls-15" width="6.928" height="2.494" transform="translate(0 8.313)"/>
+          <rect id="battery_level_2_2" data-name="battery level 2 " class="cls-15" width="6.928" height="2.494" transform="translate(0 5.819)"/>
+          <rect id="battery_level_3-2" data-name="battery level 3" class="cls-16" width="6.928" height="2.494" transform="translate(0 3.325)"/>
+          <rect id="battery_level_4-2" data-name="battery level 4" class="cls-16" width="6.928" height="2.494" transform="translate(0 0.831)"/>
+          <rect id="battery_full-2" data-name="battery full" class="cls-16" width="3.464" height="0.831" transform="translate(1.732)"/>
+        </g>
+        <path id="network_connection-2" data-name="network connection" class="cls-17" d="M19.8,11.639H31.924V0Z" transform="translate(222.153 4.157)"/>
+        <path id="wifi-2" data-name="wifi" class="cls-17" d="M7.621,11.639l7.621-9.062A12.358,12.358,0,0,0,7.621,0,12.358,12.358,0,0,0,0,2.577l7.621,9.062Z" transform="translate(224.807 4.157)"/>
+      </g>
+    </g>
+    <g id="add" transform="translate(246.075 87.706)">
+      <g id="Group_14" data-name="Group 14" transform="translate(0 0)">
+        <path id="Path_16" data-name="Path 16" class="cls-19" d="M22.171,10.5H13.357V1.325a1.672,1.672,0,0,0-3.271,0V10.5H1.272A1.628,1.628,0,0,0,0,12.2a1.628,1.628,0,0,0,1.272,1.7h8.814v9.176a1.672,1.672,0,0,0,3.271,0V13.907h8.814a1.628,1.628,0,0,0,1.272-1.7A1.628,1.628,0,0,0,22.171,10.5Z" transform="translate(0 -0.001)"/>
+      </g>
+    </g>
+    <rect id="Rectangle_243" data-name="Rectangle 243" class="cls-20" width="311.75" height="152.966" transform="translate(0 66.507)"/>
+    <g id="Group_384" data-name="Group 384" transform="translate(193.701 77.314)">
+      <g id="Group_385" data-name="Group 385" transform="translate(0)">
+        <g id="Group_381" data-name="Group 381">
+          <path id="Subtraction_1" data-name="Subtraction 1" class="cls-19" d="M47.28,94.561A47.281,47.281,0,1,1,94.561,47.281,47.334,47.334,0,0,1,47.28,94.561Zm0-83.981a36.7,36.7,0,1,0,36.7,36.7A36.742,36.742,0,0,0,47.28,10.58Z"/>
+          <g id="Group_380" data-name="Group 380" transform="translate(24.94 72.326)">
+            <path id="Path_663" data-name="Path 663" class="cls-21" d="M11,1H33.305a10,10,0,0,1,10,10v.343a10,10,0,0,1-10,10H11a10,10,0,0,1-10-10V11A10,10,0,0,1,11,1Z" transform="translate(0 0)"/>
+            <text id="REWARDS" class="cls-22" transform="translate(4.325 14.819)"><tspan x="0" y="0">REWARDS</tspan></text>
+          </g>
+        </g>
+        <text id="_20_" data-name="20%" class="cls-23" transform="translate(29.097 53.916)"><tspan x="0" y="0">20%</tspan></text>
+      </g>
+    </g>
+    <text id="Sparsh_Wadhwa" data-name="Sparsh Wadhwa" class="cls-10" transform="translate(19.121 105.121)"><tspan x="0" y="0">Sparsh Wadhwa</tspan></text>
+    <text id="Admn_No_:_23504" data-name="Admn No : 23504" class="cls-24" transform="translate(19.121 124.724)"><tspan x="0" y="0">Admn No : 23504</tspan></text>
+    <g id="Group_383" data-name="Group 383" transform="translate(18.744 135.256)">
+      <g id="Group_382" data-name="Group 382" transform="translate(19.497 2.745)">
+        <text id="SPS" class="cls-25" transform="translate(0 13)"><tspan x="0" y="0">SPS</tspan></text>
+        <text id="_12th_A" data-name="12th A" class="cls-25" transform="translate(44.892 13)"><tspan x="0" y="0">12th A</tspan></text>
+      </g>
+      <g id="facebook-placeholder-for-locate-places-on-maps" transform="translate(0 0)">
+        <path id="Facebook_Places" class="cls-19" d="M79.935,4.822a6.036,6.036,0,0,0-.313-.775A6.637,6.637,0,0,0,66.905,6.009v.827c0,.035.012.344.029.5.241,1.928,1.763,3.978,2.9,5.906,1.223,2.066,2.491,4.1,3.748,6.13.775-1.326,1.547-2.669,2.3-3.96.206-.379.446-.758.653-1.12.138-.241.4-.482.521-.706,1.223-2.238,3.191-4.494,3.191-6.716V5.958A6.875,6.875,0,0,0,79.935,4.822Zm-6.394,4.15a2.368,2.368,0,0,1-2.267-1.619,2.245,2.245,0,0,1-.064-.6V6.216a2.243,2.243,0,0,1,2.405-2.2,2.439,2.439,0,0,1,2.443,2.48A2.5,2.5,0,0,1,73.541,8.972Z" transform="translate(-66.905)"/>
+      </g>
+    </g>
+    <g class="cls-39" transform="matrix(1, 0, 0, 1, 2962.75, -4399)">
+      <path id="Rectangle_245-2" data-name="Rectangle 245" class="cls-26" d="M21,0H254.172a21,21,0,0,1,21,21V364.124a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V21A21,21,0,0,1,21,0Z" transform="translate(-2943.63 4589.38)"/>
+    </g>
+    <g id="Repeat_Grid_12" data-name="Repeat Grid 12" class="cls-27" transform="translate(34.085 209.496)">
+      <g id="Group_388" data-name="Group 388" transform="translate(-41 -252)">
+        <g class="cls-38" transform="matrix(1, 0, 0, 1, 2969.67, -4356.5)">
+          <rect id="Rectangle_246-6" data-name="Rectangle 246" class="cls-19" width="242.954" height="70.004" rx="13" transform="translate(-2928.67 4608.5)"/>
+        </g>
+        <g id="Group_386" data-name="Group 386" transform="translate(59.942 261.059)">
+          <g id="Ellipse_62" data-name="Ellipse 62" class="cls-28" transform="translate(0 0)">
+            <ellipse class="cls-33" cx="25.943" cy="25.943" rx="25.943" ry="25.943"/>
+            <ellipse class="cls-2" cx="25.943" cy="25.943" rx="23.943" ry="23.943"/>
+          </g>
+          <text id="_6" data-name="6" class="cls-29" transform="translate(18.942 31.354)"><tspan x="0" y="0">6</tspan></text>
+        </g>
+        <g id="Group_387" data-name="Group 387" transform="translate(127.475 267.648)">
+          <text id="Assignments" class="cls-30" transform="translate(0 17)"><tspan x="0" y="0">Assignments</tspan></text>
+          <text id="Check_your_knowledge" data-name="Check your knowledge" class="cls-31" transform="translate(0 34.236)"><tspan x="0" y="0">Check your knowledge</tspan></text>
+        </g>
+        <path id="Path_642" data-name="Path 642" class="cls-32" d="M2279.1,2008.2l6.6,6.3-7.3,5" transform="translate(-1963 -1718)"/>
+      </g>
+      <g id="Group_388-2" data-name="Group 388" transform="translate(-41 -170)">
+        <g class="cls-37" transform="matrix(1, 0, 0, 1, 2969.67, -4438.5)">
+          <rect id="Rectangle_246-7" data-name="Rectangle 246" class="cls-19" width="242.954" height="70.004" rx="13" transform="translate(-2928.67 4690.5)"/>
+        </g>
+        <g id="Group_386-2" data-name="Group 386" transform="translate(59.942 261.059)">
+          <g id="Ellipse_62-2" data-name="Ellipse 62" class="cls-28" transform="translate(0 0)">
+            <ellipse class="cls-33" cx="25.943" cy="25.943" rx="25.943" ry="25.943"/>
+            <ellipse class="cls-2" cx="25.943" cy="25.943" rx="23.943" ry="23.943"/>
+          </g>
+          <text id="_2" data-name="2" class="cls-29" transform="translate(18.942 31.354)"><tspan x="0" y="0">2</tspan></text>
+        </g>
+        <g id="Group_387-2" data-name="Group 387" transform="translate(127.475 267.648)">
+          <text id="Homework" class="cls-30" transform="translate(0 17)"><tspan x="0" y="0">Homework</tspan></text>
+          <text id="Its_practice_time" data-name="Its practice time" class="cls-31" transform="translate(0 34.236)"><tspan x="0" y="0">Its practice time</tspan></text>
+        </g>
+        <path id="Path_642-2" data-name="Path 642" class="cls-32" d="M2279.1,2008.2l6.6,6.3-7.3,5" transform="translate(-1963 -1718)"/>
+      </g>
+      <g id="Group_388-3" data-name="Group 388" transform="translate(-41 -88)">
+        <g class="cls-36" transform="matrix(1, 0, 0, 1, 2969.67, -4520.5)">
+          <rect id="Rectangle_246-8" data-name="Rectangle 246" class="cls-19" width="242.954" height="70.004" rx="13" transform="translate(-2928.67 4772.5)"/>
+        </g>
+        <g id="Group_386-3" data-name="Group 386" transform="translate(59.942 261.059)">
+          <g id="Ellipse_62-3" data-name="Ellipse 62" class="cls-28" transform="translate(0 0)">
+            <ellipse class="cls-33" cx="25.943" cy="25.943" rx="25.943" ry="25.943"/>
+            <ellipse class="cls-2" cx="25.943" cy="25.943" rx="23.943" ry="23.943"/>
+          </g>
+          <text id="_5" data-name="5" class="cls-29" transform="translate(18.942 31.354)"><tspan x="0" y="0">5</tspan></text>
+        </g>
+        <g id="Group_387-3" data-name="Group 387" transform="translate(127.475 267.648)">
+          <text id="Announcements" class="cls-30" transform="translate(0 17)"><tspan x="0" y="0">Announcements</tspan></text>
+          <text id="Class_Updates" data-name="Class Updates" class="cls-31" transform="translate(0 34.236)"><tspan x="0" y="0">Class Updates</tspan></text>
+        </g>
+        <path id="Path_642-3" data-name="Path 642" class="cls-32" d="M2279.1,2008.2l6.6,6.3-7.3,5" transform="translate(-1963 -1718)"/>
+      </g>
+      <g id="Group_388-4" data-name="Group 388" transform="translate(-41 -6)">
+        <g class="cls-35" transform="matrix(1, 0, 0, 1, 2969.67, -4602.5)">
+          <rect id="Rectangle_246-9" data-name="Rectangle 246" class="cls-19" width="242.954" height="70.004" rx="13" transform="translate(-2928.67 4854.5)"/>
+        </g>
+        <g id="Group_386-4" data-name="Group 386" transform="translate(59.942 261.059)">
+          <g id="Ellipse_62-4" data-name="Ellipse 62" class="cls-28" transform="translate(0 0)">
+            <ellipse class="cls-33" cx="25.943" cy="25.943" rx="25.943" ry="25.943"/>
+            <ellipse class="cls-2" cx="25.943" cy="25.943" rx="23.943" ry="23.943"/>
+          </g>
+          <text id="_1" data-name="1" class="cls-29" transform="translate(18.942 31.354)"><tspan x="0" y="0">1</tspan></text>
+        </g>
+        <g id="Group_387-4" data-name="Group 387" transform="translate(127.475 267.648)">
+          <text id="Exam_Schedules" data-name="Exam Schedules" class="cls-30" transform="translate(0 17)"><tspan x="0" y="0">Exam Schedules</tspan></text>
+          <text id="Evaluation_Time" data-name="Evaluation Time" class="cls-31" transform="translate(0 34.236)"><tspan x="0" y="0">Evaluation Time</tspan></text>
+        </g>
+        <path id="Path_642-4" data-name="Path 642" class="cls-32" d="M2279.1,2008.2l6.6,6.3-7.3,5" transform="translate(-1963 -1718)"/>
+      </g>
+      <g id="Group_388-5" data-name="Group 388" transform="translate(-41 76)">
+        <g class="cls-34" transform="matrix(1, 0, 0, 1, 2969.67, -4684.5)">
+          <rect id="Rectangle_246-10" data-name="Rectangle 246" class="cls-19" width="242.954" height="70.004" rx="13" transform="translate(-2928.67 4936.5)"/>
+        </g>
+        <g id="Group_386-5" data-name="Group 386" transform="translate(59.942 261.059)">
+          <g id="Ellipse_62-5" data-name="Ellipse 62" class="cls-28" transform="translate(0 0)">
+            <ellipse class="cls-33" cx="25.943" cy="25.943" rx="25.943" ry="25.943"/>
+            <ellipse class="cls-2" cx="25.943" cy="25.943" rx="23.943" ry="23.943"/>
+          </g>
+          <text id="_6-2" data-name="6" class="cls-29" transform="translate(18.942 31.354)"><tspan x="0" y="0">6</tspan></text>
+        </g>
+        <g id="Group_387-5" data-name="Group 387" transform="translate(127.475 267.648)">
+          <text id="Exam_Schedules-2" data-name="Exam Schedules" class="cls-30" transform="translate(0 17)"><tspan x="0" y="0">Exam Schedules</tspan></text>
+          <text id="Evaluation_Time-2" data-name="Evaluation Time" class="cls-31" transform="translate(0 34.236)"><tspan x="0" y="0">Evaluation Time</tspan></text>
+        </g>
+        <path id="Path_642-5" data-name="Path 642" class="cls-32" d="M2279.1,2008.2l6.6,6.3-7.3,5" transform="translate(-1963 -1718)"/>
+      </g>
+    </g>
+  </g>
+</svg>
